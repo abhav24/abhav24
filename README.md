@@ -2,7 +2,7 @@
 
 # ABHAV KUNCHAKURI
 
-Here are some ideas to get you started:
+**Business × Data Science × Technology**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
