@@ -1,6 +1,6 @@
 <div align="center">
 
-# ABHAV KUNCHAKURI
+# Hey, I'm Abhav 👋
 
 **Business × Data Science × Technology**
 
@@ -15,7 +15,7 @@ UNC Chapel Hill • Kenan-Flagler Business School
 
 ---
 
-## `01 / ABOUT`
+## `$ whoami`
 
 ```text
 > student @ unc chapel hill
@@ -40,7 +40,7 @@ Outside of work, you'll usually find me producing music, following markets, or o
 ### ⚡ Vayu
 **Software Studio**
 
-Building software products from zero to one, alongside development work for early-stage ventures and organizations.
+Building and shipping software for internal products, founders, and early-stage ventures.
 
 `Product` `Software` `Startups`
 
@@ -52,7 +52,7 @@ Building software products from zero to one, alongside development work for earl
 
 Health-tracking platform built around structured daily logging, pattern recognition, and AI-assisted analysis of user data.
 
-`AI` `Data` `Product`
+`AI` `Data` `HealthTech`
 
 </td>
 </tr>
@@ -70,7 +70,8 @@ A product built around solving a real-world problem through a simple, intuitive 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Sona
+### 🪙 Sona
+
 **Consumer FinTech**
 
 Personal finance and budgeting concept exploring faster, more intuitive ways to track financial activity, including voice-based interactions.
@@ -87,7 +88,7 @@ Personal finance and budgeting concept exploring faster, more intuitive ways to 
 
 ### EAI Capital
 
-Exploring the intersection of **investing, technology, and company analysis**, with exposure to evaluating businesses, markets, and investment opportunities.
+At **EAI Capital**, I've explored investing and company analysis — looking at businesses through the lens of markets, strategy, competitive positioning, and capital.
 
 `Investing` `Research` `Markets` `Strategy`
 
@@ -105,7 +106,9 @@ Exploring the intersection of **investing, technology, and company analysis**, w
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-### Building
+<br>
+
+**Building With**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -148,8 +151,6 @@ interests = {
 
 ### `BUILD × ANALYZE × INVEST`
 
-**Always interested in ambitious ideas and interesting problems.**
-
-[LinkedIn](https://www.linkedin.com/in/abhavk/) • [abhav@unc.edu](mailto:abhav@unc.edu)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
