@@ -2,7 +2,7 @@
 
 # Hey, I'm Abhav 👋
 
-**Business × Data Science × Technology**
+### business × data × technology
 
 UNC Chapel Hill • Kenan-Flagler Business School
 
@@ -17,10 +17,24 @@ UNC Chapel Hill • Kenan-Flagler Business School
 
 ## `$ whoami`
 
-```text
-> student @ unc chapel hill
-> business @ kenan-flagler + data science
-> interested in technology, markets, and building things
+```yaml
+name: Abhav Kunchakuri
+location: Chapel Hill, NC
+education:
+  - Business @ UNC Kenan-Flagler
+  - Data Science @ UNC
+
+currently:
+  building: products from 0 → 1
+  learning: private markets & special situations
+  exploring: AI × finance × entrepreneurship
+
+probably_thinking_about:
+  - startups
+  - markets
+  - product design
+  - cars
+  - music
 ```
 
 I'm a student at the **University of North Carolina at Chapel Hill** studying **Business and Data Science**, with interests across software, artificial intelligence, finance, and entrepreneurship.
@@ -42,7 +56,7 @@ Outside of work, you'll usually find me producing music, following markets, or o
 
 Building and shipping software for internal products, founders, and early-stage ventures.
 
-`Product` `Software` `Startups`
+`0 → 1` `Product` `Software`
 
 </td>
 <td width="50%" valign="top">
@@ -61,6 +75,7 @@ Health-tracking platform built around structured daily logging, pattern recognit
 <td width="50%" valign="top">
 
 ### 🧹 GRIME
+
 **Product × Technology**
 
 A product built around solving a real-world problem through a simple, intuitive user experience and technology-driven execution.
@@ -74,7 +89,7 @@ A product built around solving a real-world problem through a simple, intuitive 
 
 **Consumer FinTech**
 
-Personal finance and budgeting concept exploring faster, more intuitive ways to track financial activity, including voice-based interactions.
+Exploring more intuitive ways to interact with personal finance — including simplified and voice-driven financial logging.
 
 `FinTech` `Voice` `Consumer`
 
@@ -90,7 +105,15 @@ Personal finance and budgeting concept exploring faster, more intuitive ways to 
 
 At **EAI Capital**, I've explored investing and company analysis — looking at businesses through the lens of markets, strategy, competitive positioning, and capital.
 
-`Investing` `Research` `Markets` `Strategy`
+I'm especially interested in the point where these two worlds collide:
+
+<div align="center">
+
+### `TECHNOLOGY` → `BUSINESS` → `CAPITAL`
+
+**What should exist? · What can scale? · What is it worth?**
+
+</div>
 
 ---
 
@@ -121,7 +144,7 @@ At **EAI Capital**, I've explored investing and company analysis — looking at 
 
 ---
 
-## `05 / CURRENTLY EXPLORING`
+## 🧭 Current Rabbit Holes
 
 ```python
 interests = {
@@ -152,5 +175,34 @@ interests = {
 ### `BUILD × ANALYZE × INVEST`
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+> **Note:** replace `YOUR_GITHUB_USERNAME` in both links above with your actual GitHub username.
+
+---
+
+## `> what's next?`
+
+```text
+building things that are useful.
+learning how great businesses are built.
+learning how they're valued.
+repeat.
+```
+
+<div align="center">
+
+<br>
+
+**Open to building, investing, researching, or just talking about an interesting idea.**
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/abhavk/) · [Email](mailto:abhav@unc.edu)
+
+<br><br>
+
+*"The interesting stuff usually happens at intersections."*
 
 </div>
