@@ -4,7 +4,7 @@
 
 ### business × data × technology
 
-UNC Chapel Hill • Kenan-Flagler Business School
+**UNC Chapel Hill · Kenan-Flagler · Data Science**
 
 *Building products. Studying markets. Exploring where technology meets capital.*
 
@@ -37,12 +37,6 @@ probably_thinking_about:
   - music
 ```
 
-I'm a student at the **University of North Carolina at Chapel Hill** studying **Business and Data Science**, with interests across software, artificial intelligence, finance, and entrepreneurship.
-
-I like working at the intersection of **technical execution and business strategy** — building products, analyzing markets, and understanding what separates interesting ideas from companies that can actually scale.
-
-Outside of work, you'll usually find me producing music, following markets, or obsessing over cars.
-
 ---
 
 ## `02 / BUILDING`
@@ -59,6 +53,7 @@ Building and shipping software for internal products, founders, and early-stage 
 `0 → 1` `Product` `Software`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🧠 Inflamend
@@ -78,7 +73,7 @@ Health-tracking platform built around structured daily logging, pattern recognit
 
 **Product × Technology**
 
-A product built around solving a real-world problem through a simple, intuitive user experience and technology-driven execution.
+Building around a simple idea: use technology to make an annoying real-world problem significantly less annoying.
 
 `Product Design` `Development` `UX`
 
@@ -91,7 +86,7 @@ A product built around solving a real-world problem through a simple, intuitive 
 
 Exploring more intuitive ways to interact with personal finance — including simplified and voice-driven financial logging.
 
-`FinTech` `Voice` `Consumer`
+`FinTech` `Consumer` `Voice`
 
 </td>
 </tr>
@@ -117,7 +112,7 @@ I'm especially interested in the point where these two worlds collide:
 
 ---
 
-## `04 / TOOLKIT`
+## 🛠️ Stack
 
 <div align="center">
 
@@ -146,27 +141,15 @@ I'm especially interested in the point where these two worlds collide:
 
 ## 🧭 Current Rabbit Holes
 
-```python
-interests = {
-    "finance": [
-        "private markets",
-        "venture capital",
-        "special situations",
-        "company analysis"
-    ],
-    "technology": [
-        "artificial intelligence",
-        "data science",
-        "human-computer interaction",
-        "AI safety & interpretability"
-    ],
-    "building": [
-        "startups",
-        "product strategy",
-        "zero-to-one development"
-    ]
-}
-```
+| | What I'm exploring |
+|---|---|
+| 💸 | Private markets, special situations & venture capital |
+| 🤖 | Applied AI, interpretability & AI safety |
+| 📊 | Data-driven decision making |
+| 🧠 | Human-computer interaction |
+| 🚀 | Startups, product strategy & zero-to-one building |
+| 🎵 | Music production |
+| 🏎️ | Cars & automotive technology |
 
 ---
 
