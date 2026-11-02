@@ -6,7 +6,9 @@
 
 **UNC Chapel Hill · Kenan-Flagler · Data Science**
 
-*Building products. Studying markets. Exploring where technology meets capital.*
+*I like building things, understanding why businesses work, and finding where technology creates leverage.*
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhavk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhavk/)
 [![Email](https://img.shields.io/badge/Email-abhav%40unc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhav@unc.edu)
@@ -39,7 +41,7 @@ probably_thinking_about:
 
 ---
 
-## `02 / BUILDING`
+## ⚡ Things I've Built
 
 <table>
 <tr>
@@ -57,6 +59,7 @@ Building and shipping software for internal products, founders, and early-stage 
 <td width="50%" valign="top">
 
 ### 🧠 Inflamend
+
 **AI × Health**
 
 Health-tracking platform built around structured daily logging, pattern recognition, and AI-assisted analysis of user data.
@@ -75,7 +78,7 @@ Health-tracking platform built around structured daily logging, pattern recognit
 
 Building around a simple idea: use technology to make an annoying real-world problem significantly less annoying.
 
-`Product Design` `Development` `UX`
+`Product` `UX` `Engineering`
 
 </td>
 <td width="50%" valign="top">
@@ -94,7 +97,7 @@ Exploring more intuitive ways to interact with personal finance — including si
 
 ---
 
-## `03 / EXPERIENCE`
+## 📈 On the Other Side of the Terminal
 
 ### EAI Capital
 
@@ -116,7 +119,7 @@ I'm especially interested in the point where these two worlds collide:
 
 <div align="center">
 
-### Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -152,6 +155,8 @@ I'm especially interested in the point where these two worlds collide:
 | 🏎️ | Cars & automotive technology |
 
 ---
+
+## 📊 By the Numbers
 
 <div align="center">
 
