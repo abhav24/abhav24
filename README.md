@@ -11,7 +11,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhavk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhavk/)
-[![Email](https://img.shields.io/badge/Email-abhav%40unc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhav@unc.edu)
+[![Email](https://img.shields.io/badge/Email-abhav%40unc.edu-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhav@unc.edu)
 
 </div>
 
@@ -47,7 +47,8 @@ probably_thinking_about:
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Vayu
+### 🌬️ Vayu
+
 **Software Studio**
 
 Building and shipping software for internal products, founders, and early-stage ventures.
@@ -62,7 +63,7 @@ Building and shipping software for internal products, founders, and early-stage 
 
 **AI × Health**
 
-Health-tracking platform built around structured daily logging, pattern recognition, and AI-assisted analysis of user data.
+Exploring how structured health data and AI can help users identify patterns, triggers, and changes over time.
 
 `AI` `Data` `HealthTech`
 
@@ -81,6 +82,7 @@ Building around a simple idea: use technology to make an annoying real-world pro
 `Product` `UX` `Engineering`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🪙 Sona
@@ -99,7 +101,7 @@ Exploring more intuitive ways to interact with personal finance — including si
 
 ## 📈 On the Other Side of the Terminal
 
-### EAI Capital
+Not everything I find interesting lives in a codebase.
 
 At **EAI Capital**, I've explored investing and company analysis — looking at businesses through the lens of markets, strategy, competitive positioning, and capital.
 
@@ -121,11 +123,11 @@ I'm especially interested in the point where these two worlds collide:
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 <br>
 
@@ -160,7 +162,7 @@ I'm especially interested in the point where these two worlds collide:
 
 <div align="center">
 
-### `BUILD × ANALYZE × INVEST`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
 
