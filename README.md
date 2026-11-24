@@ -2,9 +2,9 @@
 
 # Hey, I'm Abhav 👋
 
-### business × data × technology
+### business × technology
 
-**UNC Chapel Hill · Kenan-Flagler · Data Science**
+**UNC Chapel Hill · Kenan-Flagler · Computer Science**
 
 *I like building things, understanding why businesses work, and finding where technology creates leverage.*
 
